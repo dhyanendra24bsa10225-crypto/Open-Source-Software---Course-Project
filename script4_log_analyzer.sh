@@ -1,5 +1,8 @@
 #!/bin/bash
-# Script 4: Log Analyzer
+# Script 4: Log File Analyzer
+# Author: Dhyanendra Singh
+# Course: Open Source Software
+# Description: This script reads a log file, counts the number of occurrences of a given keyword, and displays matching lines from the file.
 
 LOGFILE=$1
 KEYWORD=${2:-"error"}
