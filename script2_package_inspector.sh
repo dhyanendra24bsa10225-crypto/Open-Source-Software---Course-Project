@@ -1,5 +1,8 @@
 #!/bin/bash
-# Script 2: Package Inspector
+# Script 2: FOSS Package Inspector
+# Author: Dhyanendra Singh
+# Course: Open Source Software
+# Description: This script checks whether a given package is installed, displays its version and details, and prints a short description using a case statement.
 
 PACKAGE="python3"
 
