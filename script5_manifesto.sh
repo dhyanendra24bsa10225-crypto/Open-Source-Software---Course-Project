@@ -1,5 +1,8 @@
 #!/bin/bash
-# Script 5: Manifest Generator
+# Script 5: Open Source Manifesto Generator
+# Author: Dhyanendra Singh
+# Course: Open Source Software
+# Description: This script takes user input and generates a personalized open source manifesto, saving it into a text file.
 
 read -p "Tool: " TOOL
 read -p "Freedom means: " FREEDOM
