@@ -17,7 +17,7 @@ The repository also includes 5 Linux shell scripts demonstrating practical syste
 - Linux (Ubuntu)
 - Bash Scripting
 - Python (Conceptual Study)
-- 
+  
 ## Shell Scripts
 
 | Script | Description |
