@@ -57,13 +57,17 @@ cd scripts
 ### Step 2: Give Execution Permission
 chmod +x *.sh
 ### Step 3: Run Each Script
-Run Script 1
+-Run Script 1
 ./script1_system_identity.sh
-Run Script 2
+
+-Run Script 2
 ./script2_package_inspector.sh
-Run Script 3
+
+-Run Script 3
 ./script3_disk_auditor.sh
-Run Script 4
+
+-Run Script 4
 ./script4_log_analyzer.sh /var/log/syslog error
-Run Script 5
+
+-Run Script 5
 ./script5_manifesto.sh
