@@ -1,5 +1,8 @@
 #!/bin/bash
-# Script 3: Disk Auditor
+# Script 3: Disk and Permission Auditor
+# Author: Dhyanendra Singh
+# Course: Open Source Software
+# Description: This script loops through important system directories and displays their disk usage, permissions, owner, and group information.
 
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
 
