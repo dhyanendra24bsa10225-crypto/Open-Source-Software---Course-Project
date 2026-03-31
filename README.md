@@ -1,24 +1,37 @@
-# OSS Audit Project
+# Open Source Software - Course Project
 
 ## Student Details
-Name: Dhyanendra Singh
-Reg No: 24BSA10225
-Slot: E22
+- **Name:** Dhyanendra Singh  
+- **Registration Number:** 24BSA10225  
+- **Slot:** E22  
 
-## Software
-Python
+---
 
-## Scripts
-1. System Identity
-2. Package Inspector
-3. Disk Auditor
-4. Log Analyzer
-5. Manifest Generator
+## Project Overview
+This project is part of the Open Source Software course.  
+It focuses on analyzing **Python** as an open-source software, including its origin, license, ecosystem, and comparison with proprietary tools.
 
-## Run Commands
-chmod +x *.sh
-./script1_system_identity.sh
-./script2_package_inspector.sh
-./script3_disk_auditor.sh
-./script4_log_analyzer.sh /var/log/syslog error
-./script5_manifesto.sh
+The repository also includes 5 Linux shell scripts demonstrating practical system-level operations.
+
+## Technologies Used
+- Linux (Ubuntu)
+- Bash Scripting
+- Python (Conceptual Study)
+
+## Project Contents
+
+### Shell Scripts
+
+| Script | Description |
+|------|------------|
+| Script 1 | System Identity Report |
+| Script 2 | Package Inspector |
+| Script 3 | Disk and Permission Auditor |
+| Script 4 | Log File Analyzer |
+| Script 5 | Open Source Manifesto Generator |
+
+## How to Run the Scripts
+
+### Step 1: Give permission
+```bash
+chmod +x scripts/*.sh
