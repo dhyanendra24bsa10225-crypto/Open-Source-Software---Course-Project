@@ -1,4 +1,4 @@
-# Open Source Software - Course Project
+# Open Source Software - Project
 
 ## Student Details
 - **Name:** Dhyanendra Singh  
