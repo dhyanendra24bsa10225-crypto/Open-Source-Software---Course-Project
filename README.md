@@ -4,7 +4,7 @@
 - **Name:** Dhyanendra Singh  
 - **Registration Number:** 24BSA10225  
 - **Slot:** E22  
-- **Software** Python
+- **Software:** Python
 ---
 
 ## Project Overview
