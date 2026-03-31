@@ -1,6 +1,8 @@
 #!/bin/bash
 # Script 1: System Identity Report
 # Author: Dhyanendra Singh
+# Course: Open Source Software
+# Description: This script displays system information such as kernel version, user, uptime, etc.
 
 STUDENT_NAME="Dhyanendra Singh"
 SOFTWARE_CHOICE="Python"
